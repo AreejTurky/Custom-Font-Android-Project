@@ -10,7 +10,7 @@ Then, drag and drop what you have download in this file
 
 ### Change the style.xml
 Or in new versions "themes.xml" under themes folder (the 1st file) and write the follow, 
-in my example i used "Times New Roman" from the following link https://freefontsfamily.com/times-new-roman-font-free/
+in my example i used "Times New Roman" from the following link https://fonts.google.com/?subset=arabic
 
 <style name="TimesNewRoman">
         <item name="android:fontFamily">@font/times_new_roman</item>
