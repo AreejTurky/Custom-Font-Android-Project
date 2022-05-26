@@ -24,3 +24,6 @@ in my example i used "Times New Roman" from the following link https://fonts.goo
    ### Last step
    You're now able to use your font in XML files. For my example i use it in TextView item.
    style="@style/TimesNewRoman"
+   
+  ### Result
+  ![alt text](https://github.com/AreejTurky/Custom-Font-Android-Project/blob/main/screenshot.png)
