@@ -19,9 +19,9 @@
         <item name="fontFamily">@font/times_new_roman</item>
         <item name="android:textStyle">normal</item>
     </style>
-    <style name="TimesNewRoman_Bold_Italic">
-        <item name="android:fontFamily">@font/times_new_roman_bold_italic</item>
-        <item name="fontFamily">@font/times_new_roman_bold_italic</item>
+    <style name="ArefRuqaa_Regular">
+        <item name="android:fontFamily">@font/ArefRuqaa_Regular</item>
+        <item name="fontFamily">@font/ArefRuqaa_Regular</item>
         <item name="android:textStyle">normal</item>
     </style>
 </resources>

@@ -22,11 +22,9 @@
         android:layout_width="278dp"
         android:layout_height="317dp"
         android:gravity="center"
-        android:text="HI AREEJ THIS IS TEXT IN
- DISFFERENT FONT
-        بالعربي تيست للخط العربي"
+        android:text="بالعربي تيست للخط العربي"
+        style="@style/ArefRuqaa_Regular"
         android:textSize="20sp"
-        style="@style/TimesNewRoman"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
